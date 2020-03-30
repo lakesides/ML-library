@@ -1,2 +1,7 @@
 # Mechine-Learning
-Mechine learning gitbook
+Mechine learning libary gitbook
+
+- Introduction about Mechine learning
+- Matplotlib
+- Numpy
+- Pandas
